@@ -1,15 +1,15 @@
 - name: UKVI Home
-  link: /
+  link:
   icon: <i class="fas fa-home"></i>
 
 - name: Skype Parser
-  link: /skype-converter
+  link: skype-evidence
   icon: <i class="fab fa-skype"></i>
 
 - name: WhatsApp Parser
-  link: /whatsapp-converter
+  link: whatsapp-converter
   icon: <i class="fab fa-whatsapp"></i>
 
 - name: Messenger Parser
-  link: /messenger-converter
+  link: messenger-converter
   icon: <i class="fab fa-facebook-messenger"></i>
