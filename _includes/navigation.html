@@ -1,11 +1,7 @@
 <nav>
     {% for sitelink in site.data.nav-links %}
         <div class="grid-100">
-            {% if sitelink.link == "/" %}
-            <a href="{{site.url}}{{site.baseurl}}{{sitelink.link}}">{{sitelink.name}} {{sitelink.icon}}</a>
-            {% else %}
             <a href="{{sitelink.link}}">{{sitelink.name}} {{sitelink.icon}}</a>
-            {% endif %}
         </div>
     {% endfor %}
 </nav>
