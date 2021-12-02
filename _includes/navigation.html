@@ -1,7 +1,7 @@
 <nav>
-    {% for link in site.data.nav-links %}
+    {% for sitelink in site.data.nav-links %}
         <div class="grid-100">
-            <a href="{{link.link}}">{{link.name}} {{link.icon}}</a>
+            <a href="{{site.baseurl}}{{sitelink.link}}">{{sitelink.name}} {{sitelink.icon}}</a>
         </div>
     {% endfor %}
 </nav>
