@@ -1,5 +1,5 @@
 - name: UKVI Home
-  link: /
+  link: https://samueldw.github.io/ukviimmigrationhelper/
   icon: <i class="fas fa-home"></i>
 
 - name: Skype Parser
