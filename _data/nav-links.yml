@@ -2,14 +2,14 @@
   link: https://samueldw.github.io/ukviimmigrationhelper/
   icon: <i class="fas fa-home"></i>
 
-- name: Skype Parser
+- name: Skype Evidence
   link: skype-evidence
   icon: <i class="fab fa-skype"></i>
 
-- name: WhatsApp Parser
+- name: WhatsApp Evidence
   link: whatsapp-converter
   icon: <i class="fab fa-whatsapp"></i>
 
-- name: Messenger Parser
+- name: Messenger Evidence
   link: messenger-converter
   icon: <i class="fab fa-facebook-messenger"></i>
